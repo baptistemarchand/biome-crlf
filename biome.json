@@ -1,8 +1,8 @@
 {
-	"$schema": "https://biomejs.dev/schemas/1.9.4/schema.json",
+	"$schema": "https://biomejs.dev/schemas/2.1.1/schema.json",
 	"formatter": {
 		"enabled": true,
-		"include": ["crlf.ts"],
+		"includes": ["crlf.ts"],
 		"lineEnding": "lf"
 	}
 }
